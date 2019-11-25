@@ -1,2 +1,2 @@
 # QA-Automation
-This si for testing pupose
+This is for testing pupose
